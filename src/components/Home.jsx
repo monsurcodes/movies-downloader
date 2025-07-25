@@ -89,7 +89,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div className="px-4 py-2 bg-gray-800/50 border border-gray-600/50 rounded-lg text-sm text-gray-300 font-medium backdrop-blur-sm">
-                            v1.0.0
+                            v1.0.1
                         </div>
                     </div>
                 </div>
