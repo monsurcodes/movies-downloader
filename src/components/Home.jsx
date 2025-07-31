@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { Search, Film, Tv, Clock, Download, ArrowLeft, Package, Copy, Check, Link, ExternalLink } from "lucide-react"
 
-const BASE_URL = "https://hdhub4u.gifts/?s="
+const BASE_URL = "https://hdhub4u.build/?s="
 
 const fallbackImagePath = "https://cdn11.bigcommerce.com/s-dtwuls/images/stencil/1280x1280/products/22646/27854/productdefault__61734.1713366135.jpg?c=2"
 
